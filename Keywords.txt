@@ -1,0 +1,4 @@
+USER ORIENTED DESIGN IN POWER BI.
+
+1. Automatic Page refresh in Power BI .
+2. Paginated Report.

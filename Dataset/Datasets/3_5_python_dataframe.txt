@@ -1,0 +1,2 @@
+import pandas as pd
+df_food_away_from_home = pd.read_csv("C:\\Users\\Public\\Documents\\Datasets\\FoodAwayFromHome.csv")
